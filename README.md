@@ -5,7 +5,7 @@ a toy package that helps to calculate a word cound from a text file
 ## Installation
 
 ```bash
-$ pip install pycounts_dk
+$ pip install pycounts_dk_20250110
 ```
 
 ## Usage

@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pycounts_dk"
+name = "pycounts_dk_20250110"
 version = "0.1.0"
 description = "a toy package that helps to calculate a word cound from a text file"
 authors = ["Daria Khon"]
